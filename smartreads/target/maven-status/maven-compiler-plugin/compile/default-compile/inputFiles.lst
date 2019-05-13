@@ -1,0 +1,15 @@
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\model\GasRead.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\model\AccountReadingDto.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\controller\SmartReadsController.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\SmartreadsApplication.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\entity\Customer.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\service\CustomerAccountServiceImpl.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\entity\Account.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\error\CustomErrorHandler.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\entity\ElectricityReading.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\dao\CustomerAccountDao.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\entity\GasReading.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\model\ElectricityRead.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\service\CustomerAccountService.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\error\RestExceptionHandler.java
+E:\Workspace\smartreads\src\main\java\com\sp\smartreads\error\ApiError.java

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sp.smartreads.dao.CustomerAccountDaoTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.702 s - in com.sp.smartreads.dao.CustomerAccountDaoTest
